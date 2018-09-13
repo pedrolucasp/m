@@ -1,0 +1,16 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "description": "Memes",
+  "main": "index.js",
+  "repository": "https://github.com/pedrolucasp/m.git",
+  "author": "Pedro Lucas Porcellis <pedrolucasporcellis@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gallery ."
+  },
+  "keywords": ["gallery", "memes"],
+  "dependencies": {
+    "micro-gallery": "^0.4.5"
+  }
+}
